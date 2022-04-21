@@ -1,0 +1,26 @@
+h1 {
+    font-family: "Monaco", monospace, sans-serif;
+    font-size: 200%;
+}
+
+h2 {
+    font-family: "Monaco", monospace, sans-serif;
+}
+
+p {
+    font-size: 150%;
+}
+
+#content {
+    background-color: #4682B4;
+}
+
+.output {
+    font-family: "Monaco", monospace, sans-serif;
+    font-size: 200%;
+}
+
+.output {
+    font-family: "Monaco", monospace, sans-serif;
+    font-size: 200%;
+}
