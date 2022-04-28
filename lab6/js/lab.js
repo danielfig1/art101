@@ -9,7 +9,7 @@ myMainRide = {
     make: 'Dodge',
     model: 'Hellcat',
     color: 'Black',
-    year: '2016',
+    year: 2016,
     age: function () {
         return 2022-year;
     }
