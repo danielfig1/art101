@@ -1,0 +1,34 @@
+h1 {
+    color: #fafdfc;
+    font-family: "Impact";
+    font-size: 200%;
+}
+
+h2 {
+    color: #b4511a;
+}
+
+p {
+    color: #fafdfc;
+    font-size: 130%;
+    text-indent: 20px;
+    margin-left: 10px;
+}
+
+#content {
+    background-color: #5c93fb;
+    border: 5px dashed #fea44b;
+}
+
+#output {
+  color: #fafdfc;
+  font-size: 110%;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+
+.special {
+  background-color: black;
+  border: 5px dashed #007c8d;
+}
