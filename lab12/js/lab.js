@@ -2,6 +2,9 @@
 // Author: Daniel Figueroa.
 // Date: 5/17/2022
 
+//methPurity() - Determines the user's meth-cooking ability based on their name and a calculation.
+//It changes the properties of the div element with the ID "output".
+
 function methPurity(str) {
   len = str.length;
   purity = len % 4;
