@@ -1,0 +1,30 @@
+h1 {
+    color: #d6cc40;
+    font-family: "Impact";
+    font-size: 200%;
+}
+
+h2 {
+    color: #369457;
+    margin-left: 10px;
+}
+
+p {
+    color: #cfc75f;
+    font-size: 130%;
+    margin-left: 10px;
+}
+
+#content {
+    background-color: #032202;
+    border: 5px dashed #ccd18c;
+}
+
+#cookCalculator{
+  text-align: center;
+}
+
+#cook{
+  font-family: "Impact";
+  color: #42b9f5;
+}
