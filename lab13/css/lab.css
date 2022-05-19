@@ -1,0 +1,26 @@
+h1 {
+    color: ;
+    font-family: "Impact";
+    font-size: 200%;
+}
+
+h2 {
+    color: #32292F;
+    margin-left: 10px;
+}
+
+p {
+    color: #70ABAF;
+    font-size: 130%;
+    margin-left: 10px;
+}
+
+#content {
+    background-color: #cbf193;
+    border: 5px dashed #ccd18c;
+}
+
+#output{
+     font-size: 80%;
+
+}
